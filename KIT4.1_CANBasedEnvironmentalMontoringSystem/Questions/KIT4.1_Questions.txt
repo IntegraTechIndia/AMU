@@ -1,0 +1,23 @@
+
+Write a program that reads temperature and humidity values from a DHT11 sensor using an ESP32 and displays the measurements on a TFT screen
+Write a program that reads temperature and humidity values from a DHT11 sensor using an ESP32 and displays the measurements on a TFT screen and send the data to ThingsBoard, and generate a suitable graph.
+Write a program that reads temperature and humidity values from a DHT11 sensor using an ESP32 and displays the measurements on a TFT screen and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+Develop a program that acquires temperature and humidity measurements from a DHT11 sensor via an ESP32, transmits the data through an MCP2515 CAN module, and displays the received values on a TFT display.
+Develop a program that acquires temperature and humidity measurements from a DHT11 sensor via an ESP32, transmits the data through an MCP2515 CAN module, and displays the received values on a TFT display  and send the data to ThingsBoard, and generate a suitable graph.
+Develop a program that acquires temperature and humidity measurements from a DHT11 sensor via an ESP32, transmits the data through an MCP2515 CAN module, and displays the received values on a TFT display and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+Develop an IoT‑enabled, CAN‑based Environmental Monitoring System utilizing an ESP32 microcontroller and a DHT11 temperature‑and‑humidity sensor. The system should send sensor data over the CAN bus using an MCP2515 CAN controller and support cloud‑based remote monitoring with real‑time alert notification capabilities.
+
+
+
+
+
+
+
+
+

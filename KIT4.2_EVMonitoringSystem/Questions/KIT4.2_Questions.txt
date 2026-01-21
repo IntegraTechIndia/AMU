@@ -1,0 +1,30 @@
+
+Develop a program that interfaces an ESP32 with an INA3221 three‑channel current and voltage monitor to acquire measurement data, and display the readings on a TFT display.
+Develop a program that interfaces an ESP32 with an INA3221 three‑channel current and voltage monitor to acquire measurement data, and display the readings on a TFT display and send the data to ThingsBoard, and generate a suitable graph.
+Develop a program that interfaces an ESP32 with an INA3221 three‑channel current and voltage monitor to acquire measurement data, and display the readings on a TFT display and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+Develop an ESP32‑based program that reads current and voltage measurements from the INA3221 three‑channel power monitor, sends the acquired data over a CAN bus using the MCP2515 CAN module, and visualizes the measurements on a TFT display.
+Develop an ESP32‑based program that reads current and voltage measurements from the INA3221 three‑channel power monitor, sends the acquired data over a CAN bus using the MCP2515 CAN module, and visualizes the measurements on a TFT display  and send the data to ThingsBoard, and generate a suitable graph.
+Develop an ESP32‑based program that reads current and voltage measurements from the INA3221 three‑channel power monitor, sends the acquired data over a CAN bus using the MCP2515 CAN module, and visualizes the measurements on a TFT display and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+Develop an ESP32‑based program that reads motor temperature using a 10k NTC thermistor connected through a voltage‑divider circuit, processes the temperature data, and displays the real‑time values on a TFT screen.
+Develop an ESP32‑based program that reads motor temperature using a 10k NTC thermistor connected through a voltage‑divider circuit, processes the temperature data, and displays the real‑time values on a TFT screen and send the data to ThingsBoard, and generate a suitable graph.
+Develop an ESP32‑based program that reads motor temperature using a 10k NTC thermistor connected through a voltage‑divider circuit, processes the temperature data, and displays the real‑time values on a TFT screen and send the data to the Flash API, and calculate the average current consumption over a specified period.
+Develop an ESP32 application that measures motor temperature from a 10k NTC thermistor in a voltage‑divider configuration, computes the temperature , and displays real‑time readings on a TFT display. Implement relay‑based motor control with hysteresis: stop the motor when the temperature reaches or exceeds the high threshold, and restart it only after the temperature drops below a defined low threshold.
+
+
+Develop a program that uses an ESP32 to interface with the INA3221 three‑channel current and voltage monitor for real‑time battery monitoring applications.
+
+Design and implement an IoT‑enabled EV Monitoring System based on the ESP32 microcontroller. The system should integrate: INA3221 for multi‑channel current and voltage monitoring, 10k NTC thermistor for motor or battery temperature measurement, MCP2515 CAN module for CAN bus communication, Relay module for protection or switching control. The application must acquire real‑time EV sensor data, transmit it over the CAN network through the MCP2515 controller, and forward it to a cloud platform for remote monitoring, analytics, and instant alert notifications when abnormal conditions are detected.
+
+
+
+
+
+
+
+
+

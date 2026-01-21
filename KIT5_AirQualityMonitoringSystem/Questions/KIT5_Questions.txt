@@ -1,0 +1,30 @@
+Develop a program that interfaces an ESP32 with a DHT11 temperature‑and‑humidity sensor, retrieves real‑time environmental data, and displays the measurements on a TFT display.
+Develop a program that interfaces an ESP32 with a DHT11 temperature‑and‑humidity sensor, retrieves real‑time environmental data, and displays the measurements on a TFT display and send the data to ThingsBoard, and generate a suitable graph.
+Develop a program that interfaces an ESP32 with a DHT11 temperature‑and‑humidity sensor, retrieves real‑time environmental data, and displays the measurements on a TFT display and send the data to the Flash API, and calculate the average current consumption over a specified period.
+ 
+
+
+
+Develop a program that reads PM2.5 and PM10 air‑quality measurements from an SDS011 sensor using an ESP32 and displays the data on a TFT screen.
+Develop a program that reads PM2.5 and PM10 air‑quality measurements from an SDS011 sensor using an ESP32 and displays the data on a TFT screen and send the data to ThingsBoard, and generate a suitable graph.
+Develop a program that reads PM2.5 and PM10 air‑quality measurements from an SDS011 sensor using an ESP32 and displays the data on a TFT screen and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+
+Develop a program that interfaces an ESP32 with an MQ‑7 carbon monoxide sensor to acquire CO concentration data, process the readings, and display the real‑time values on a TFT display.
+Develop a program that interfaces an ESP32 with an MQ‑7 carbon monoxide sensor to acquire CO concentration data, process the readings, and display the real‑time values on a TFT display and send the data to ThingsBoard, and generate a suitable graph.
+Develop a program that interfaces an ESP32 with an MQ‑7 carbon monoxide sensor to acquire CO concentration data, process the readings, and display the real‑time values on a TFT display and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+
+Develop a program that interfaces an ESP32 with an MQ‑135 sensor to acquire air‑quality data, process the readings, and display the real‑time values on a TFT display.
+Develop a program that interfaces an ESP32 with an MQ‑135 sensor to acquire air‑quality data, process the readings, and display the real‑time values on a TFT display  and send the data to ThingsBoard, and generate a suitable graph.
+Develop a program that interfaces an ESP32 with an MQ‑135 sensor to acquire air‑quality data, process the readings, and display the real‑time values on a TFT display  and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+
+Develop an IoT‑enabled AIR Quality Monitoring System utilizing an ESP32 microcontroller interfaced with multiple sensors—including SDS011 for particulate matter (PM2.5/PM10), DHT11 for temperature and humidity, MQ‑7 for carbon monoxide detection, and MQ‑135 for general air‑quality monitoring. The system should upload real‑time sensor data to a cloud platform for remote monitoring and provide instant alert notifications when environmental parameters exceed predefined thresholds.
+

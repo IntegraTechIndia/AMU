@@ -1,0 +1,41 @@
+Write an ESP32 program controlled by ThingsBoard to read current, voltage, power, frequency, and power factor from a PZEM‑004T V3.0 sensor and display the data on a TFT monitor.
+Write an ESP32 program controlled by ThingsBoard to read current, voltage, power, frequency, and power factor from a PZEM‑004T V3.0 sensor and display the data on a TFT monitor and send the data to ThingsBoard, and generate a suitable graph.
+Write an ESP32 program controlled by ThingsBoard to read current, voltage, power, frequency, and power factor from a PZEM‑004T V3.0 sensor and display the data on a TFT monitor and send the data to the Flash API, and calculate the average current consumption over a specified period
+
+
+Develop a program that interfaces an ESP32 with a DHT11 temperature‑and‑humidity sensor, retrieves real‑time environmental data, and displays the measurements on a TFT display.
+Develop a program that interfaces an ESP32 with a DHT11 temperature‑and‑humidity sensor, retrieves real‑time environmental data, and displays the measurements on a TFT display and send the data to ThingsBoard, and generate a suitable graph.
+Develop a program that interfaces an ESP32 with a DHT11 temperature‑and‑humidity sensor, retrieves real‑time environmental data, and displays the measurements on a TFT display and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+Develop an ESP32‑based program that communicates with an ADP810 differential pressure sensor over the I²C bus, acquires real‑time pressure measurements, processes the data, and displays the results on a TFT screen.
+Develop an ESP32‑based program that communicates with an ADP810 differential pressure sensor over the I²C bus, acquires real‑time pressure measurements, processes the data, and displays the results on a TFT screen and send the data to ThingsBoard, and generate a suitable graph.
+Develop an ESP32‑based program that communicates with an ADP810 differential pressure sensor over the I²C bus, acquires real‑time pressure measurements, processes the data, and displays the results on a TFT screen and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+
+Develop an ESP32‑based program that reads differential or load‑cell‑based pressure measurements using the HX710B ADC module, processes the sensor data in real time, and displays the output values on a TFT screen.
+Develop an ESP32‑based program that reads differential or load‑cell‑based pressure measurements using the HX710B ADC module, processes the sensor data in real time, and displays the output values on a TFT screen and send the data to ThingsBoard, and generate a suitable graph.
+Develop an ESP32‑based program that reads differential or load‑cell‑based pressure measurements using the HX710B ADC module, processes the sensor data in real time, and displays the output values on a TFT screen and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+Develop an ESP32‑based application that measures water temperature using a 10k NTC thermistor connected through a voltage‑divider network. The program should sample the analog voltage, compute the temperature, and display real‑time temperature readings on a TFT display.
+Develop an ESP32‑based application that measures water temperature using a 10k NTC thermistor connected through a voltage‑divider network. The program should sample the analog voltage, compute the temperature, and display real‑time temperature readings on a TFT display and send the data to ThingsBoard, and generate a suitable graph.
+Develop an ESP32‑based application that measures water temperature using a 10k NTC thermistor connected through a voltage‑divider network. The program should sample the analog voltage, compute the temperature, and display real‑time temperature readings on a TFT display and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+
+Develop an ESP32‑based program that reads real‑time water‑flow data from a water‑flow sensor using pulse‑counting on a digital input pin, calculates flow rate and total volume, and displays the results on a TFT screen.
+Develop an ESP32‑based program that reads real‑time water‑flow data from a water‑flow sensor using pulse‑counting on a digital input pin, calculates flow rate and total volume, and displays the results on a TFT screen and send the data to ThingsBoard, and generate a suitable graph.
+Develop an ESP32‑based program that reads real‑time water‑flow data from a water‑flow sensor using pulse‑counting on a digital input pin, calculates flow rate and total volume, and displays the results on a TFT screen  and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+
+Develop an IoT‑enabled Plant and Machinery Monitoring System powered by an ESP32 microcontroller and equipped with multiple sensing modules PZEM‑004T V3.0 for monitoring voltage, current, power, and energy consumption, DHT11 for temperature and humidity measurement, ADP810 differential‑pressure sensor interfaced via I²C, HX710B + pressure sensor for high‑resolution air‑pressure readings through a 24‑bit ADC, NTC thermistor for real‑time water‑temperature monitoring, Water‑flow sensor for measuring flow rate and total volume, Relay module for controlling pumps, motors, or safety mechanisms. The system must process sensor data in real time, transmit it securely to a cloud platform for remote monitoring, and generate real‑time alert notifications whenever operational or environmental parameters exceed predefined safety thresholds.
+
+

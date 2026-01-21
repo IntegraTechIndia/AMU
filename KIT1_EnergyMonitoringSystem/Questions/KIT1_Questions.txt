@@ -1,0 +1,29 @@
+Develop an ESP32 program that outputs the text “Welcome to IoT Lab” on a 2.2-inch ILI9225 TFT display.
+
+Write a program to read the current, voltage, power, frequency, power factor using PZEM004T V3.0 sensor and display in the monitor.
+Write a program to read the current using PZEM004T V3.0 sensor and display in the monitor.
+Write a program to read the voltage using PZEM004T V3.0 sensor and display in the monitor.
+Write a program to read the power using PZEM004T V3.0 sensor and display in the monitor.
+Write a program to read the frequency using PZEM004T V3.0 sensor and display in the monitor.
+Write a program to read the power factor using PZEM004T V3.0 sensor and display in the monitor.
+
+
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read current, voltage, power, frequency, and power factor, send the data to ThingsBoard, and generate an appropriate graph.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read current and send the data to ThingsBoard, and generate an appropriate graph.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read voltage and send the data to ThingsBoard, and generate an appropriate graph.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read power and send the data to ThingsBoard, and generate an appropriate graph.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read frequency and send the data to ThingsBoard, and generate an appropriate graph.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read power factor and send the data to ThingsBoard, and generate an appropriate graph.
+
+
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read current, voltage, power, frequency, and power factor, send the data to the Flash API, and calculate the average current consumption over a specified period.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read current and  send the data to the Flash API, and calculate the average current consumption over a specified period.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read voltage and send the data to the Flash API, and calculate the average voltage consumption over a specified period.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read power and send the data to the Flash API, and calculate the average power consumption over a specified period.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to read frequency and send the data to the Flash API, and calculate the frequency over a specified period.
+Write a program using an ESP32 and a PZEM‑004T V3.0 sensor to power factor and send the data to the Flash API, and calculate the average power factor over a specified period.
+
+
+
+How to build a fully functional IoT energy‑monitoring system using an ESP32, PZEM‑004T energy meter, and an ILI9225 TFT display, with real‑time data logging to a cloud platform.
+

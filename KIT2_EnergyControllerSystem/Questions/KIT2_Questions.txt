@@ -1,0 +1,10 @@
+Develop an ESP32 program that interfaces with an ILI9225 2.2" TFT display to show the message “Welcome to IoT Smart Home System.” The display control should be triggered through a ThingsBoard ON/OFF button widget.
+
+Write an ESP32 program controlled by ThingsBoard to read current, voltage, power, frequency, and power factor from a PZEM‑004T V3.0 sensor and display the data on a TFT monitor.
+
+
+Write an ESP32 program controlled by ThingsBoard to read current, voltage, power, frequency, and power factor from a PZEM‑004T V3.0 sensor and display the data on a TFT monitor and send the data to ThingsBoard, and generate a suitable graph.
+
+Write an ESP32 program controlled by ThingsBoard to read current, voltage, power, frequency, and power factor from a PZEM‑004T V3.0 sensor and display the data on a TFT monitor and send the data to the Flash API, and calculate the average current consumption over a specified period
+
+Develop an IoT Smart Home system incorporating an ESP32, PZEM‑004T sensor, ILI9225 TFT display, and relay module to remotely control household electrical appliances (e.g., lights, fans) with ON/OFF switching capabilities.

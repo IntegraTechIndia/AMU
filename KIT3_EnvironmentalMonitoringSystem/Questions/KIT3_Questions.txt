@@ -1,0 +1,29 @@
+Write a program that reads PM2.5 and PM10 air‑quality measurements from an SDS011 sensor using an ESP32 and displays the data on a TFT screen.
+Write a program that reads PM2.5 and PM10 air‑quality measurements from an SDS011 sensor using an ESP32 and displays the data on a TFT screen and send the data to ThingsBoard, and generate a suitable graph.
+Write a program that reads PM2.5 and PM10 air‑quality measurements from an SDS011 sensor using an ESP32 and displays the data on a TFT screen and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+Write a program to read temperature and humidity from an SHT20 sensor and display the data on a TFT monitor
+Write a program to read temperature and humidity from an SHT20 sensor and display the data on a TFT monitor and send the data to ThingsBoard, and generate a suitable graph.
+Write a program to read temperature and humidity from an SHT20 sensor and display the data on a TFT monitor and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+
+Write a program that reads atmospheric pressure from an ADP810 sensor using an ESP32 and displays the measurements on a TFT screen
+Write a program that reads atmospheric pressure from an ADP810 sensor using an ESP32 and displays the measurements on a TFT screen and send the data to ThingsBoard, and generate a suitable graph.
+Write a program that reads atmospheric pressure from an ADP810 sensor using an ESP32 and displays the measurements on a TFT screen and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+Write a program to read distance measurements from a VL53L0X sensor and display the data on a TFT monitor.
+Write a program to read distance measurements from a VL53L0X sensor and display the data on a TFT monitor  and send the data to ThingsBoard, and generate a suitable graph.
+Write a program to read distance measurements from a VL53L0X sensor and display the data on a TFT monitor and send the data to the Flash API, and calculate the average current consumption over a specified period.
+
+
+Develop an IoT‑based Environmental Monitoring System using an ESP32 microcontroller integrated with SDS011 (air quality), SHT20 (temperature and humidity), ADP810 (pressure), and VL53L0X (distance) sensors, featuring cloud‑enabled remote monitoring and real‑time alert notifications.
+
+
+
+
+
+
+
