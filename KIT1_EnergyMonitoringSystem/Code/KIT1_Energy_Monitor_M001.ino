@@ -10,7 +10,7 @@
 #include <ArduinoJson.h>
 
 
-// TFT Pins
+// TFT Pins test
 #define TFT_RST 26
 #define TFT_RS  25
 #define TFT_CS  15
