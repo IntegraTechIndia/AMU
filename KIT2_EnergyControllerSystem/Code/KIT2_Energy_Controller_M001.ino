@@ -23,8 +23,8 @@
 
 // Kit ID & URLs
 const char* kitID = "kit2";
-const char* thingsboardURL = "https://192.168.1.238:8080/api/v1/esp2/telemetry";
-const char* thingsboardRelayURL = "https://192.168.1.238:8080/api/v1/esp2/attributes?sharedKeys=relay";
+const char* thingsboardURL = "https://192.168.1.238:8080/api/v1/Controller/telemetry";
+const char* thingsboardRelayURL = "https://192.168.1.238:8080/api/v1/Controller/attributes?sharedKeys=relay";
 const char* flaskAPI = "http://192.168.1.130:5010/api/v1/data";
 
 // SPI & Display
@@ -32,14 +32,14 @@ SPIClass hspi(HSPI);
 TFT_22_ILI9225 tft = TFT_22_ILI9225(TFT_RST, TFT_RS, TFT_CS, TFT_LED, TFT_BRIGHTNESS);
 
 // PZEM (Serial2: RX=16, TX=17)
-PZEM004Tv30 pzem(&Serial2, 16, 17);
+PZEM004Tv30 pzem(&Serial2, 17, 16);
 
 // Relay Status Variable
 bool relayStatus = false;
 
 void setup() {
   Serial.begin(115200);
-  Serial2.begin(9600, SERIAL_8N1, 16, 17);
+  Serial2.begin(9600, SERIAL_8N1, 17, 16);
 
   // Display Setup
   hspi.begin();
